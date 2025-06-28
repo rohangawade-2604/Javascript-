@@ -1,2 +1,9 @@
 # Javascript-
-This is the Repository where I am practicing Javascript with its functional varients
+
+## What is Javascript ?
+
+![alt text](image.png)
+
+## What are the Rules of variables ?
+
+![alt text](image-1.png)
