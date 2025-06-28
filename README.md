@@ -11,6 +11,10 @@
 ## What are the Variables in JavaScript ?
 
 ![alt text](Images/image-2.png)
+    
+    Note:
+    
+    In Const , if we have the Object , so we can change its key value as shown in Object.js file...
 
 
 ## 2. There are various Data Types in Javascript 
