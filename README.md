@@ -22,3 +22,34 @@
     1. Primitive Types : Number, String, Boolean, Undefined, Null, BigInt, Symbol
 
     2. Non Primitive DataTypes :- Object, Array , Functions
+
+
+____
+
+## Which are the Various Operators in Javascript ?
+
+    1. Arthemetic Operator:-  + , - , * , /
+
+        a. Modulus                   ----->     %
+        b. Exponentiations           ----->     **
+        c. Increment                 ----->     a++ , ++a
+        d. Decrement                 ----->     a-- , --a
+
+    2. Assignment Operator :- = , += , -= , *= , %= , **=
+    
+    3. Comparison Operators :- 
+        
+        a. Equal to                  ----->      ==
+        b. Not equal to              ----->      !=
+        c. Equal to & type           ----->      ===
+        d. Not Equal to & type       ----->      !===
+
+    4. Logical Operators :- 
+
+        a. Logical And               ----->      &&
+        b. Logical OR                ----->      ||
+        c. Logical NOT               ----->      !
+
+        
+
+    
