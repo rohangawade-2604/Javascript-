@@ -17,9 +17,17 @@ console.log("Exponentiation for a ** b is", a ** b) // Output: Exponentiation fo
 
 // Uniary Operators
 
+// post increment and decrement
+
 console.log(a++) // Output: 7, it returns the value of a and then increments it by 1 , its equivalent to a = a + 1
 console.log(a) // Output: 8, it returns the value of a after incrementing it
 
 console.log(a--) // Output: 8, it returns the value of a and then decrements it by 1 , its equivalent to a = a - 1
 console.log(a) // Output: 7, it returns the value of a after decrementing it
 
+
+// pre increment and decrement
+
+console.log(++a) // Output: 8, it increments the value of a by 1 and then returns it, its equivalent to a = a + 1
+
+console.log(++b) // Output: 4, it increments the value of b by 1 and then returns it, its equivalent to b = b + 1
