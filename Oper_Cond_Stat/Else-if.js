@@ -1,4 +1,4 @@
-let mode = "dark";
+let mode = "purple";
 let color;
 
 if (mode === "dark"){
