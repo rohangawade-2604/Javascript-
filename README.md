@@ -26,7 +26,7 @@
 
 ____
 
-## Which are the Various Operators in Javascript ?
+## 3. Which are the Various Operators in Javascript ?
 
     1. Arthemetic Operator:-  + , - , * , /
 
@@ -55,4 +55,6 @@ ____
     In Arthemetic a++ is called as post increment . In  this, it prints the value first and then it will perform the operations , So we should write the next console.log for printing the operational value 
 
     At ++a , it will perform the operation first and then it will print the value in it , it doesnt need to print the another console.log value
+
+    note-2: Check in Arthmetic.js in urinary operator line
     
