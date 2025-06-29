@@ -42,7 +42,7 @@ ____
         a. Equal to                  ----->      ==
         b. Not equal to              ----->      !=
         c. Equal to & type           ----->      ===
-        d. Not Equal to & type       ----->      !===
+        d. Not Equal to & type       ----->      !==
 
     4. Logical Operators :- 
 
@@ -57,4 +57,15 @@ ____
     At ++a , it will perform the operation first and then it will print the value in it , it doesnt need to print the another console.log value
 
     note-2: Check in Arthmetic.js in urinary operator line
-    
+
+
+### 4. Logical Operators table for their specific conditions
+
+    For && Operator...
+
+            | Cond-1  | Cond-2 |  &&    |  ||   |  !   |
+            |:--------|:-------|--------|-------|------|
+            |   T     |   T    |   T    |   T   |      |
+            |   T     |   F    |   F    |   T   |      |
+            |   F     |   T    |   F    |   T   |      |
+            |   F     |   F    |   F    |   F   |      |
