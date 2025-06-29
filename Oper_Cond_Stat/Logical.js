@@ -10,3 +10,6 @@ console.log("logical answer is ", cond1 && cond3); // Output: logical answer of 
 
 console.log("logical answer is ", cond1 || cond2); // Output: logical answer is cond1 || cond2 true, it checks if at least one condition is true
 console.log("logical answer is ", cond1 || cond3); // Output: logical answer of cond1 || cond3 is true, it checks if at least one condition is true
+
+console.log("logical answer is ", !cond1); // Output: logical answer is !cond1 false, it negates the condition, if cond1 is true, it returns false
+console.log("logical answer is ", !cond2); // Output: logical answer is !cond2 false, it negates the condition, if cond2 is true, it returns false
