@@ -50,6 +50,9 @@ ____
         b. Logical OR                ----->      ||
         c. Logical NOT               ----->      !
 
-        
+    Note :- 
 
+    In Arthemetic a++ is called as post increment . In  this, it prints the value first and then it will perform the operations , So we should write the next console.log for printing the operational value 
+
+    At ++a , it will perform the operation first and then it will print the value in it , it doesnt need to print the another console.log value
     
