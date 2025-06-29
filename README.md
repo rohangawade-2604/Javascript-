@@ -59,9 +59,8 @@ ____
     note-2: Check in Arthmetic.js in urinary operator line
 
 
-### 4. Logical Operators table for their specific conditions
+### 4. Rules of Logical Operators table for their specific conditions
 
-    For && Operator...
 
             | Cond-1  | Cond-2 |  &&    |  ||   |  
             |:--------|:-------|--------|-------|
