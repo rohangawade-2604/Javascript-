@@ -1,6 +1,9 @@
 let a = 5;
 let b = 2;
 
+a += b; // Equivalent to a = a + b
+console.log("After a += b, a is", a); // Output: After a += b, a is 7
+
 a += 4; // Equivalent to a = a + 4
 console.log("After a += 4, a is", a); // Output: After a += 4, a is 9
 
