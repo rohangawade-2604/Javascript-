@@ -56,7 +56,7 @@ ____
 
     At ++a , it will perform the operation first and then it will print the value in it , it doesnt need to print the another console.log value
 
-    note-2: Check in Arthmetic.js in urinary operator line is upgraded
+    note-2: Check in Arthmetic.js in urinary operator line 
 
 
 ### 4. Rules of Logical Operators table for their specific conditions
