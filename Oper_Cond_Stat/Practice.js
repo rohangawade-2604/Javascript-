@@ -10,4 +10,23 @@ else{
     console.log("the number is zero")
 }
 
-// This code checks if a number is positive, negative, or zero and prints the result to the console.
+
+
+// Write a program to check whether a number is divisible by 5.
+
+let num = "10"
+
+if(num % 5 === 0){
+    console.log("The number is divisible by 5.");
+}else{
+    console.log("The number is not divisible by 5.");
+}
+
+
+let num1 = "52"
+
+if (num1 % 10 === 0){
+    console.log("the number is multiply by 10")
+}else{
+    console.log("invalid number")
+}
