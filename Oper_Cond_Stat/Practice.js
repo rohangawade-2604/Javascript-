@@ -33,21 +33,3 @@ if (num1 % 10 === 0){
 }
 
 
-let alpha = "E"
-
-let cond1 = alpha === "a"
-let cond2 = alpha === "e"
-let cond3 = alpha === "i"
-let cond4 = alpha === "o"
-let cond5 = alpha === "u"
-let cond6 = alpha === "A" && alpha === "E" && alpha == "I" && alpha == "O" && alpha == "U"
-
-if(cond1 || cond2 || cond3 || cond4 || cond5){
-    console.log("The letter is a vowel.");
-}
-else if(cond6){
-    console.log("no bigger letter is allowed")
-}
-else{
-    console.log("The letter is a consonant.");
-}
