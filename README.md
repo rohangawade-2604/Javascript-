@@ -56,6 +56,8 @@ ____
 
             condition ? exprIf-True : exprIf-False
 
+            note:- It is the next level if else condition for javascript
+
 
     Note :- 
 
