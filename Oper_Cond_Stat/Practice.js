@@ -33,3 +33,12 @@ if (num1 % 10 === 0){
 }
 
 
+// get the user input to find the multiple of 5 or not
+const prompt = require('prompt-sync')();
+let num3 = prompt("enter the number")
+
+if (num3 % 5 === 0){
+    console.log("the number is multiple of 5")
+}else{
+    console.log("the number is not multiple of 5")
+}
