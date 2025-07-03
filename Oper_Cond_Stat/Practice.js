@@ -43,9 +43,9 @@ if (num1 % 10 === 0){
 // F = less than 0
 
 
-let marks = 86;
+let marks = "150";
 
-if (marks >= 80){
+if (marks >= 80 && marks <= 100){
     console.log("A+");
 }
 else if(marks >= 70){
@@ -60,7 +60,7 @@ else if(marks >= 50){
 else if(marks >= 40){
     console.log("D");
 }
-else if(marks >= 0){
+else if(marks >= 35){
     console.log("E");
 }
 else{
