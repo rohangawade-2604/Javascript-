@@ -50,6 +50,13 @@ ____
         b. Logical OR                ----->      ||
         c. Logical NOT               ----->      !
 
+    5. Ternary Operator :- 
+        
+        Syntax:- 
+
+            condition ? exprIf-True : exprIf-False
+
+
     Note :- 
 
     In Arthemetic a++ is called as post increment . In  this, it prints the value first and then it will perform the operations , So we should write the next console.log for printing the operational value 
