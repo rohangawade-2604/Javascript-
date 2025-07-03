@@ -33,12 +33,36 @@ if (num1 % 10 === 0){
 }
 
 
-// get the user input to find the multiple of 5 or not
+// write a code  which can give grades to a student accoring to the marks he obtained in an exam.
+// A+ = 80-100
+// A = 70-79
+// B = 60-69        
+// C = 50-59
+// D = 40-49
+// E = 0-39
+// F = less than 0
 
-let num3 = prompt("enter the number")
 
-if (num3 % 5 === 0){
-    console.log("the number is multiple of 5")
-}else{
-    console.log("the number is not multiple of 5")
+let marks = 86;
+
+if (marks >= 80){
+    console.log("A+");
+}
+else if(marks >= 70){
+    console.log("A");
+}
+else if(marks >= 60){
+    console.log("B");
+}
+else if(marks >= 50){
+    console.log("C");
+}
+else if(marks >= 40){
+    console.log("D");
+}
+else if(marks >= 0){
+    console.log("E");
+}
+else{
+    console.log("F");
 }
