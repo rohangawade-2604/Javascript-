@@ -91,4 +91,4 @@ Watch the below video for explanations of Else if Statement
 
 
 paisa hai to badi badi baate
-paisa hai to lambi lambi
+paisa hai to lambi lambi rate
