@@ -97,3 +97,12 @@ ___
 
 **`Loops are use to execute the piece of code again & again`**
 
+There are different types of Loops in Javascript
+
+1. **`for Loop`**
+1. **`while Loop`**
+1. **`do-while Loop`**
+
+
+
+
