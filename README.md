@@ -112,6 +112,5 @@ a. **`for loop`**:-
 le loops to Javascript :-
 ![alt text](Images/image4.png)
 
-hdjkahf
 
 
