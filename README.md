@@ -104,7 +104,7 @@ There are different types of Loops in Javascript
 1. **`do-while Loop`**
 
 a. **`for loop`**:-
-![alt text](Images /image5.png)
+![alt text](Images/image5.png)
 👉 [Watch here to watch this video](https://youtube.com/shorts/AnaaKhe30gE?si=t1xxlZ6TDfzTpoGb)
 
 ## Why don't you use any other alphabets instead of i,j in loops?
