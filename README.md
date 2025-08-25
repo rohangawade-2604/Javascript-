@@ -120,3 +120,14 @@ ChatGPT said:
 In JavaScript, a closure is a function that “remembers” the variables from its outer scope even after that scope has finished executing and goes to the garbage.
 
 👉 It allows inner functions to access and use outer function’s variables.
+
+In simple words 
+
+le baburao to parent function :- 
+
+![alt text](image.png)
+
+But when there is not written anything in child scope than le to my parent function content
+
+![alt text](image-1.png)
+
