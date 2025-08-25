@@ -113,4 +113,10 @@ le loops to Javascript :-
 ![alt text](Images/image4.png)
 
 
+## What is Clouser?
 
+ChatGPT said:
+
+In JavaScript, a closure is a function that “remembers” the variables from its outer scope even after that scope has finished executing and goes to the garbage.
+
+👉 It allows inner functions to access and use outer function’s variables.
