@@ -5,4 +5,4 @@
                                             let fullName = names.join(" ");
 
                                             // Printing the message
-                                            console.log("I am " + fullName + ", Welcome to my prooofile");
+                                            console.log("I am " + fullnameName + ", Welcome to my prooofile");
