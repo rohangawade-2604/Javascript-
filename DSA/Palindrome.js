@@ -26,7 +26,7 @@ const isPalindrome = () => {
         console.log("this is the palindrome part")
     }
     else{
-        console.log("This is not the palindrome")
+        console.log("This is not the palindrome and this is the keywrod")
     }
     return
 }
