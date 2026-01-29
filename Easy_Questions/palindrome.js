@@ -18,3 +18,6 @@ if(arr3 === string){
 else{
     console.log("not a palindrome")
 }
+
+
+
