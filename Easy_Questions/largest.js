@@ -4,9 +4,13 @@ let largest = arr[0];
 
 for(let i=0; i<arr.length; i++){
 
-    if(arr[i]< largest){
+    if(arr[i]> largest){            //to find the largest number 
         largest = arr[i]
     }
+
+    // if(arr[i]< largest){
+    //     largest = arr[i]             //to find the smallest number
+    // }
 }
 
 console.log(largest)
