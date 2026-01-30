@@ -1,19 +1,19 @@
-Reverse a string
+Reverse a string  --
 
-Check palindrome
+Check palindrome --
 
-Find factorial
+Find factorial --
 
-Check prime number
+Check prime number  --
 
-Find max/min in array
+Find max/min in array --
 
 Remove duplicates
 
-Fibonacci series
+Fibonacci series  
 
 Count vowels
 
 Swap two numbers
 
-Reverse a number
+Reverse a number  --
